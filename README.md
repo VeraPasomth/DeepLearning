@@ -1,6 +1,6 @@
 # Software Description
 The zipped folder contains the dataset and python scripts used for data pre-processing, visualization 
-and building 3 non-linear regression models with Keras. The steps to use the three regression models are as 
+and building 3 non-linear regression models with Keras. The steps to use the models are as 
 follows: 
 1. Please run the python script labeled Data_Preprocessing. 
 This script prepares the data to be used by the neural networks by first labeling and dividing 
